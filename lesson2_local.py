@@ -20,6 +20,7 @@ llm_config = {
     ]
 }
 
+#The openai llm_config works
 #llm_config = {"model": "gpt-4o-mini", "api_key": os.environ["OPENAI_API_KEY"],"price": [0.00015, 0.00060]}
 
 
