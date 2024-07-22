@@ -15,7 +15,7 @@ llm_config = {
     [
         {
             "api_type": "ollama",
-            "model": "llama3:70b",
+            "model": "gemma2:27b",
             "client_host": "http://host.docker.internal:11434",
             "seed": 42,
             "price": [0.0,0.0]
